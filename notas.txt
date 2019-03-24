@@ -1,0 +1,9 @@
+ctrl + d 
+para seleccionar ocurrencias iguales
+
+ctrl + felcha se mueve
+
+
+para poner comentarios <------------------
+
+ctrl + shift +7
